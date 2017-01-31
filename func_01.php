@@ -1,1 +1,4 @@
-print "hgtr"
+<?php print "hgtr" ?>
+
+
+
