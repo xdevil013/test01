@@ -1,1 +1,3 @@
-print "hello"
+<?php
+print "hello";
+?>
